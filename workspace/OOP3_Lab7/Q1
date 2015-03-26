@@ -1,0 +1,8 @@
+
+Q1.
+
+a. The names are first added to an ArrayList. From there they are all put into a TreeSet
+
+b. There are two Elizabeths but once the names are transfered into a TreeSet, there is only one.
+
+c. The ArrayList displays the names as the were added. The TreeSet has them alphabetically.

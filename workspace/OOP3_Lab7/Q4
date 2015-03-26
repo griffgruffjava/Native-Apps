@@ -1,0 +1,23 @@
+Q4
+
+a.	To display the list forward, a LinkedList is used to store the names
+
+b.	Iterator has 3 methods: hasNext()
+							next()
+							remove()
+							
+c 	ListIterator is used to display the list of names backwards
+
+d.	ListIterator has 9 methods: add()
+								hasNext()
+								hasPrevious()
+								next()
+								nextIndex()
+								previousIndex()
+								previous()
+								remove()
+								set()
+
+
+
+							

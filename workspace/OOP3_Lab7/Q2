@@ -1,0 +1,10 @@
+Q2
+
+a. A linkedList is being used to hold the names.
+
+b. Two methods that LinkedList have that List dosen't have are pop() and push()
+
+c. getFirst() and getLast() are two methods for LinkedList
+
+d. poll() method is being used to get and remove the first person from the LinkedList
+

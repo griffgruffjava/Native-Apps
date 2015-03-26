@@ -1,0 +1,29 @@
+Q3
+
+a. 	array- to store all subject names
+   	Collection - used to put the array into a Collection Interface
+   	ArrayList - the collection is put into
+   	HashSet - The ArrayList is put into, removing duplicate subjects
+   	TreeSet- the hashset is put into the treeset becoming sorted
+   	
+b.  the user method display(Collection c) iterates over a 
+ 	collection and displays it in a JPane display
+ 	
+c.  a parameter of type collection is passed to the display() method
+ 
+d.  it would not work if a Set was the parameter because a List is not
+    a Set
+    
+e.  it would not work if the parameter was a List because treesets and 
+	hashsets are not lists
+ 
+f.  Because the display() method is used on such a varity of collections
+ 	it needs to be generic
+
+g.	polymorphism
+
+	
+h.	Dynamic dispatch
+
+		 	 
+  	   	  	
